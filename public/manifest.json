@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "XAU NEWS AI — Gold News Impact",
+  "short_name": "XAU NEWS AI",
+  "description": "AI analysis of US economic news impact on XAUUSD/Gold with real-time alerts in WIB.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070A0F",
+  "theme_color": "#070A0F",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

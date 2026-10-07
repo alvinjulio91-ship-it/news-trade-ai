@@ -1,0 +1,8 @@
+{
+  "name": "XAU NEWS AI",
+  "description": "AI analysis of economic news impact on XAUUSD/Gold based on real-time macroeconomic releases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

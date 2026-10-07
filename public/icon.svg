@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="42" fill="#070A0F"/>
+  <rect x="10" y="10" width="172" height="172" rx="34" fill="#111821" stroke="#D4AF37" stroke-width="4"/>
+  <circle cx="96" cy="76" r="28" fill="#D4AF37"/>
+  <text x="96" y="142" font-family="sans-serif" font-weight="800" font-size="26" fill="#F2D675" text-anchor="middle">XAU AI</text>
+</svg>
